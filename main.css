@@ -1,31 +1,21 @@
 /* css for navbar */
-ul {
+.navbar {
     background-color: black;
-    list-style-type: none;
-    /* margin: 0; */
-    padding: 3px;
     overflow: hidden;
-    width: 100%;
-    top: 0;
-    left: 0;
 }
-li {
-    display: inline;
+.navbar a {
     float: left;
-    border-left: solid 1px white;
-}
-li a {
-    display: block;
-    color: white;
     text-align: center;
+    color: white;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 17px;
 }
-li a:hover {
+.navbar a:hover {
     color: black;
     background-color: white;
 }
-.active {
+.navbar a.active {
     background-color: turquoise;
 }
 
