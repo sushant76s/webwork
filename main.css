@@ -2,10 +2,12 @@
 ul {
     background-color: black;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    /* margin: 0; */
+    padding: 3px;
     overflow: hidden;
     width: 100%;
+    top: 0;
+    left: 0;
 }
 li {
     display: inline;
@@ -25,4 +27,16 @@ li a:hover {
 }
 .active {
     background-color: turquoise;
+}
+
+/* css for footer */
+footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
