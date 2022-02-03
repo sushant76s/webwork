@@ -2,6 +2,6 @@
 **Practice your webDevelopement skills here.**
 ---
 <!--- --- or *** or <hr> for the new line --->
-![webwork](images/webwork.jpg)
+![webwork](static/webwork.jpg)
 
 hello world
