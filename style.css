@@ -1,0 +1,18 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.col-md-6{
+    border: 5px solid black;
+    padding: 20px;
+    margin-top: 150px;
+}
+
+button{
+    margin: 20px;
+    border: 3px solid black !important;
+}
+h1{
+    font-weight: bolder;
+    margin: 10px;
+}
