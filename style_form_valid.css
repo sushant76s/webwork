@@ -1,0 +1,30 @@
+body{
+    background-color: dimgray;
+}
+
+.col-md-5{
+    margin: 150px;
+    padding: 10px;
+}
+
+input{
+    margin-top: 20px;
+}
+button{
+    margin-top: 40px;
+    /* float: left; */
+}
+
+.success{
+    border: 3px solid green;
+}
+
+.error{
+    border: 3px solid red;
+}
+
+small{
+    color: red;
+    float: left;
+    margin: 5px;
+}
